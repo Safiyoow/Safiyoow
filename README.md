@@ -6,13 +6,13 @@ Programmer | Web devolper | designer
 
 - 🔭 I’m currently learning Alx software enginnering
 
-- 📫 How to reach me *izabelashariif@gmail.com*
+- 📫 How to reach me *izabelasharif@gmail.com*
 
  
  <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=Safiyoow&label=Profile%20views&color=0e75b6&style=flat" alt="safiyoow" /></h2>
 <p align="center">
  <!-- <a href="https://www.linkedin.com/in/mohamudmmc/"> -->
- <img align="center" src="https://github.com/Safiyoow/safiyoow-material/blob/main/Icon/linkedin.svg" alt="zayid" />
+ <img align="center" src="https://github.com/Safiyoow/safiyoow-material/blob/main/Icon/linkedin.svg" alt="safiyoow" />
   </a> -->
   <a href="https://instagram.com/Safiyoow">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
