@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/safiyoow/safiyoow/blob/main/Wave.gif" height="55px" width="55px">, I'm  Safiya Mohamed Shariif</h1>
 <h3 align="center">
 Programmer | Web devolper | designer
- 
+
 </h3>
 
 - 🔭 I’m currently learning Alx software enginnering
