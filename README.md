@@ -12,7 +12,7 @@ Programmer | Web devolper | designer
  <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=Safiyoow&label=Profile%20views&color=0e75b6&style=flat" alt="safiyoow" /></h2>
 <p align="center">
  
-  <a href="https://instagram.com/Safiyoow">
+  <a href="https://instagram.com/Safiyoow Shariif">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
   <a href="izabelasharif@gmail.com">
