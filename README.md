@@ -1,4 +1,4 @@
-<h1 align="center">Salaam<img src="https://github.com/safiyoow/safiyoow/blob/main/Wave.gif" height="55px" width="55px">,I'M Safiya Shariif</h1>
+<h1 align="center">Salaam , Here is Safiya Shariif</h1>
 <h3 align="center">
 Design & Programming Lover|Junior Web Developer|Student Of Computer Science Engineering at Dhaka International University.
 
