@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://github.com/safiyoow/safiyoow/blob/main/Wave.gif" height="55px" width="55px">, I'm  Safiya Mohamed Shariif</h1>
+<h1 align="center">Salaam<img src="https://github.com/safiyoow/safiyoow/blob/main/Wave.gif" height="55px" width="55px">,I'M Safiya Shariif</h1>
 <h3 align="center">
-Programmer | Web devolper | designer
+Design & Programming Lover|Junior Web Developer|Student Of Computer Science Engineering at Dhaka International University.
 
 </h3>
 
-- 🔭 I’m currently learning Alx software enginnering
+- 🔭 I’m currently learning at Alx software enginnering
 
-- 📫 How to reach me *izabelasharif@gmail.com*
+- 📫 Reach Me From *izabelasharif@gmail.com*
 
  
  <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=Safiyoow&label=Profile%20views&color=0e75b6&style=flat" alt="safiyoow" /></h2>
