@@ -1,58 +1,17 @@
-<h1 align="center">Salaam , Here is Safiya Shariif</h1>
-<h3 align="center">
-Design & Programming Lover|Junior Web Developer|Student Of Computer Science Engineering at Dhaka International University.
+<h1 align="center">Salaam 👋, I'mm Safiya Shariif</h1>
+<h3 align="center">A Full Stack Web Developing Student.</h3>
 
-</h3>
+- 🔭 I’m currently working on [Alx Software Engineering](https://www.alxafrica.com/software-engineering-2022)
 
-- 🔭 I’m currently learning at Alx software enginnering
+- 🌱 I’m currently learning **Web designing and developing courses**
 
-- 📫 Reach Me From *izabelasharif@gmail.com*
+- 📫 How to reach me **izabelasharif@gmail.com**
 
- 
- <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=Safiyoow&label=Profile%20views&color=0e75b6&style=flat" alt="safiyoow" /></h2>
-<p align="center">
- 
-  <a href="https://instagram.com/Safiyoow Shariif">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
-  </a>
-  <a href="izabelasharif@gmail.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/safiyoow shariif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safiyoow shariif" height="30" width="40" /></a>
+<a href="https://instagram.com/safiyoow shariif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safiyoow shariif" height="30" width="40" /></a>
 </p>
 
- 
- <h2>👩‍💻 Skills</h2>
-
-<p align="center">
-  <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
-  <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Java/java.png" alt="java" width="40" height="40"/>
-  <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
-  <a href="https://www.learncpp.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.svg" alt="python" width="40" height="40"/>
-  <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
-  <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.png" alt="arduino" width="40" height="40"/>
-  <a href="https://www.ti.com/tool/CCSTUDIO"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Code%20Composer/ccstudio.jpg" alt="codecomposer" width="40" height="40"/>
-  <a href="https://developer.android.com/studio/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Android/android.svg" alt="androidstudio" width="40" height="40"/>
-  <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
-  <a href="https://www.influxdata.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/InfluxDB/influxdata.svg" alt="influxdb" width="40" height="40"/>
-  <a href="https://git-scm.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
-  <a href="https://bitbucket.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Bitbucket/bitbucket.svg" alt="bitbucket" width="40" height="40"/>
-  <a href="https://gitlab.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/GitLab/gitlab.svg" alt="gitlab" width="40" height="40"/>
-  <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
-  <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
-  <a href="https://www.raspberrypi.org/software/operating-systems"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Raspberry%20Pi/raspberry_pi.svg" alt="raspberrypi" width="40" height="40"/>
-  <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
-  <a href="https://www.espressif.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Espressif/espressif.svg" alt="espressif" width="40" height="40"/>
-  <a href="https://grafana.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Grafana/grafana.svg" alt="grafana" width="40" height="40"/>
-  <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
-</p>
-<h2>📊 My github Statistics</h2>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=safiyoow&theme=dracula" alt="zayid" />
-</p>
-
-
-<p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=zayidmohamedy&count_private=true&show_icons=true&theme=radical"><img alt="zayid Activity Graph" src="https://github-readme-stats.vercel.app/api?username=safiyoow&count_private=true&show_icons=true&theme=radical" /></a>
-  
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
