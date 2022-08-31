@@ -1,7 +1,7 @@
 <h1 align="center">Salaam 👋, I'M Safiya Shariif</h1>
 <h3 align="center">A Full Stack Web Developing Student.</h3>
 
-- 🔭 I’m currently working on [Alx Software Engineering](https://www.alxafrica.com/software-engineering-2022)
+- 🔭 I’m currently working on a project at [Alx Software Engineering](https://www.alxafrica.com/software-engineering-2022)
 
 - 🌱 I’m currently learning **Web designing and developing courses**
 
