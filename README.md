@@ -1,4 +1,4 @@
-<h1 align="center">Salaam 👋, I'mm Safiya Shariif</h1>
+<h1 align="center">Salaam 👋, I'M Safiya Shariif</h1>
 <h3 align="center">A Full Stack Web Developing Student.</h3>
 
 - 🔭 I’m currently working on [Alx Software Engineering](https://www.alxafrica.com/software-engineering-2022)
